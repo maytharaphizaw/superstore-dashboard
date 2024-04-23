@@ -13,3 +13,5 @@ Special features included:
 The switch metrics in this dashboard are the main dynamic functionalities enabled for the users in order to swap the viz by clicking different metrics in the slicer pane.
 
 Used Apps: Excel, Knime, Power BI
+
+Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
