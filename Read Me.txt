@@ -11,3 +11,5 @@ Special features included:
 The switch metrics in this dashboard are the main dynamic functionalities enabled for the users in order to swap the viz by clicking different metrics in the slicer pane.
 
 Used Apps: Excel, Knime, Power BI
+
+Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNThmNjM0YzUtZjM4Mi00YzY2LWFiOGItODA5OWZlM2ZhODY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
