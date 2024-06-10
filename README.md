@@ -15,3 +15,5 @@ The switch metrics in this dashboard are the main dynamic functionalities enable
 Used Apps: Excel, Knime, Power BI
 
 Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNThmNjM0YzUtZjM4Mi00YzY2LWFiOGItODA5OWZlM2ZhODY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
